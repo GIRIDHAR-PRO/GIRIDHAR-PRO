@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm GIRIDHAR-PRO</h1>
+<h1 align="center">Hi 👋, I'm GIRIDHAR</h1>
 <h3 align="center">A Passionate Beginner In The World Of Programming And Development</h3>
 
 - 🔭 I’m currently working on **Machine Learning**
